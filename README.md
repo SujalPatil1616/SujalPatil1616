@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Sujal Patil 👋
 
-<!--
-**SujalPatil1616/SujalPatil1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+B.Tech Electronics and Communication Engineering student passionate about Embedded Systems, VLSI, Communication Systems, Signal Processing, and Computer Networks.
 
-Here are some ideas to get you started:
+I enjoy building projects, learning new technologies, and strengthening my core ECE fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- C Programming
+- C++ Programming
+- MATLAB
+- Simulink
+- Embedded Systems
+- Digital Electronics
+- Computer Networks
+- Cisco Packet Tracer
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Projects
+
+### Amazon Clone
+- Responsive Amazon homepage clone developed using HTML and CSS.
+- Features include navigation bar, product sections, hero banner, and responsive layout.
+- 🔗 Repository: https://github.com/SujalPatil1616/Amazon-clone
+
+### Tic Tac Toe Game
+- Interactive two-player game developed using HTML, CSS, and JavaScript.
+- Features include winner detection, draw detection, and game reset functionality.
+- 🔗 Repository: https://github.com/SujalPatil1616/Tic-Tac-Toe-game
+
+---
+
+## Certifications
+
+### MATLAB Onramp – MathWorks
+🔗 Certificate: PASTE_MATLAB_LINK_HERE
+
+### Simulink Onramp – MathWorks
+🔗 Certificate: PASTE_SIMULINK_LINK_HERE
+
+### Advanced C++ Programming
+🔗 Certificate: PASTE_CPP_LINK_HERE
+
+### Embedded Systems Fundamentals
+🔗 Certificate: PASTE_EMBEDDED_LINK_HERE
+
+### Cisco Packet Tracer
+🔗 Certificate: PASTE_CISCO_LINK_HERE
+
+### IoT and Digital Transformation
+🔗 Certificate: PASTE_IOT_LINK_HERE
+
+---
+
+## Areas of Interest
+
+- Embedded Systems
+- VLSI Design
+- Communication Systems
+- Signal Processing
+- Computer Networks
+- Internet of Things (IoT)
+
+---
+
+## Hobbies
+
+- Travelling
+- Playing Sports
+
+---
+
+## Connect With Me
+
+- 📧 Email: sujalpatil1616@outlook.com
+- 💻 GitHub: https://github.com/SujalPatil1616
+
+---
+
+⭐ Always learning and exploring opportunities in Embedded Systems, VLSI, and Core Electronics.
