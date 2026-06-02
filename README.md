@@ -46,7 +46,7 @@ I enjoy building projects, learning new technologies, and strengthening my core 
 🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=65e9bdf8-5322-4caa-a174-d47269650871&
 
 ### Advanced C++ Programming
-🔗 Certificate: PASTE_CPP_LINK_HERE
+🔗 Certificate: https://simpli-web.app.link/e/mXw22yICD3b
 
 ### Embedded Systems Fundamentals
 🔗 Certificate: PASTE_EMBEDDED_LINK_HERE
