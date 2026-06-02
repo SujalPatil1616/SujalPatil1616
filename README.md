@@ -40,7 +40,7 @@ I enjoy building projects, learning new technologies, and strengthening my core 
 ## Certifications
 
 ### MATLAB Onramp – MathWorks
-🔗 Certificate: PASTE_MATLAB_LINK_HERE
+🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d832aefd-eaa5-4cc8-907d-dbfc8e7c2d73&
 
 ### Simulink Onramp – MathWorks
 🔗 Certificate: PASTE_SIMULINK_LINK_HERE
