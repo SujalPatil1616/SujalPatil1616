@@ -43,7 +43,7 @@ I enjoy building projects, learning new technologies, and strengthening my core 
 🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d832aefd-eaa5-4cc8-907d-dbfc8e7c2d73&
 
 ### Simulink Onramp – MathWorks
-🔗 Certificate: PASTE_SIMULINK_LINK_HERE
+🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=65e9bdf8-5322-4caa-a174-d47269650871&
 
 ### Advanced C++ Programming
 🔗 Certificate: PASTE_CPP_LINK_HERE
