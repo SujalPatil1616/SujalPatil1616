@@ -52,7 +52,7 @@ I enjoy building projects, learning new technologies, and strengthening my core 
 🔗 Certificate: https://simpli-web.app.link/e/bYh0kqTCD3b
 
 ### Cisco Packet Tracer
-🔗 Certificate: PASTE_CISCO_LINK_HERE
+🔗 Certificate: https://github.com/SujalPatil1616/Certificates/blob/main/Cisco%20Packet%20Tracer%20Certificate.pdf
 
 ### IoT and Digital Transformation
 🔗 Certificate: PASTE_IOT_LINK_HERE
