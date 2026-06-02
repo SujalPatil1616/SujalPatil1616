@@ -40,16 +40,16 @@ I enjoy building projects, learning new technologies, and strengthening my core 
 ## Certifications
 
 ### MATLAB Onramp – MathWorks
-🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d832aefd-eaa5-4cc8-907d-dbfc8e7c2d73&
+🔗 Certificate: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d832aefd-eaa5-4cc8-907d-dbfc8e7c2d73&
 
 ### Simulink Onramp – MathWorks
-🔗 https://matlabacademy.mathworks.com/progress/share/certificate.html?id=65e9bdf8-5322-4caa-a174-d47269650871&
+🔗 Certificate: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=65e9bdf8-5322-4caa-a174-d47269650871&
 
 ### Advanced C++ Programming
 🔗 Certificate: https://simpli-web.app.link/e/mXw22yICD3b
 
 ### Embedded Systems Fundamentals
-🔗 Certificate: PASTE_EMBEDDED_LINK_HERE
+🔗 Certificate: https://simpli-web.app.link/e/bYh0kqTCD3b
 
 ### Cisco Packet Tracer
 🔗 Certificate: PASTE_CISCO_LINK_HERE
