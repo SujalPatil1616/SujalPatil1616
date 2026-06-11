@@ -67,7 +67,7 @@ https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32
 Designed and implemented a traffic light control system using digital logic for automated traffic signal management.
 
 🔗 Repository:
-(Add Link)
+https://github.com/SujalPatil1616/Smart-Traffic-Light-Controller
 
 ---
 
