@@ -51,7 +51,7 @@ Currently, I am focused on strengthening my core ECE fundamentals while explorin
 
 # Projects
 
-## Embedded Systems & IoT
+## Embedded Systems & IoT :
 
 ### Smart Knee Exoskeleton using ESP32
 A wearable assistive system developed using ESP32, MPU6050 sensor, Servo Motor, OLED Display, BLE communication, and mobile application integration. The system monitors knee movement and provides mechanical assistance through servo actuation. Bluetooth connectivity allows wireless control and monitoring through a mobile application.
@@ -61,7 +61,7 @@ https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32
 
 ---
 
-## VLSI 
+## VLSI :
 
 ### Smart Traffic Light Controller
 Designed and implemented a traffic light control system using digital logic for automated traffic signal management.
@@ -79,7 +79,7 @@ https://github.com/SujalPatil1616/Digital-Door-Lock-System
 
 ---
 
-## Communication Systems
+## Communication Systems :
 
 ### UART Transmitter
 Implemented UART communication protocol for serial data transmission.
@@ -105,7 +105,7 @@ https://github.com/SujalPatil1616/SPI-Master-Slave-Communication
 
 ---
 
-## Analog & Power Electronics
+## Analog & Power Electronics :
 
 ### Full Wave Bridge Rectifier with Capacitor Filter
 Simulation and analysis of AC to DC conversion using a bridge rectifier and filtering capacitor.
@@ -147,7 +147,7 @@ https://github.com/SujalPatil1616/555-Timer-Astable-Multivibrator
 
 ---
 
-## Mobile Application Projects
+## Mobile Application Projects :
 
 ### Ohm's Law Calculator App
 Developed using MIT App Inventor. The application calculates Voltage, Current, and Resistance using Ohm's Law by allowing users to select the required parameter and enter known values.
@@ -165,7 +165,7 @@ https://github.com/SujalPatil1616/Resistor-Color-Code-Calculator-App
 
 ---
 
-## Web Development Projects
+## Web Development Projects :
 
 ### Amazon Clone
 A responsive Amazon homepage clone developed using HTML and CSS.
