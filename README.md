@@ -10,14 +10,14 @@ Currently, I am focused on strengthening my core ECE fundamentals while explorin
 
 ---
 
-## Education
+## Education :
 
 ### B.Tech in Electronics and Communication Engineering
 **REVA University**
 
 ---
 
-## Technical Skills
+## Technical Skills :
 
 ### Embedded Systems & Hardware
 - ESP32
