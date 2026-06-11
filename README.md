@@ -10,6 +10,47 @@ Currently, I am focused on strengthening my core ECE fundamentals while explorin
 
 ---
 
+# ⭐ Featured Projects
+
+## 🦿 Smart Knee Exoskeleton using ESP32
+- ESP32, MPU6050, Servo Motor, BLE, OLED Display
+- Wearable assistive device for knee movement support
+- Bluetooth mobile app integration
+
+🔗 Repository: https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32
+
+---
+
+## 📡 UART Transmitter & Receiver
+- Verilog HDL
+- Serial communication protocol implementation
+
+🔗 Repository: https://github.com/SujalPatil1616/UART-Transmitter-Receiver
+
+---
+
+## 🔄 SPI Master-Slave Communication
+- Verilog HDL
+- Master-Slave communication protocol
+
+🔗 Repository: https://github.com/SujalPatil1616/SPI-Master-Slave-Communication
+
+---
+
+## 🎨 Resistor Color Code Calculator App
+- MIT App Inventor
+- Calculates resistor values from color bands
+
+🔗 Repository: https://github.com/SujalPatil1616/Resistor-Color-Code-Calculator-App
+
+---
+
+## ⚡ Ohm's Law Calculator App
+- MIT App Inventor
+- Calculates Voltage, Current, and Resistance
+
+🔗 Repository: https://github.com/SujalPatil1616/Ohms-Law-Calculator-App
+
 ## Education
 
 ### B.Tech in Electronics and Communication Engineering
